@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Smart Task Manager",
+  "description": "A clean, responsive full-stack task management dashboard powered by React and Supabase PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
